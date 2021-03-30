@@ -23,5 +23,5 @@ This is the first script to be run to ...
 
 ### Directories
 
-- xyz
-This data is used to ....
+- public data.csv
+This is the public dataset. The original dataset, with which all analyses were conducted, includes six additional cases. These six participants, however, did not consent to sharing their data with other researchers. 
