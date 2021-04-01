@@ -23,8 +23,8 @@ This is the first script to be run to ...
 
 ### Directories
 
-#### public dataset.csv
-- This is the public dataset. The original dataset, with which all analyses were conducted, includes six additional cases. These six participants, however, did not consent to sharing their data with other researchers. 
+#### full public dataset.csv
+- This is the full dataset; potentially identifying information has been removed. 
 
 #### code book.pdf
 - This document includes the code book, indicating which variable assesses (how) which concept.
