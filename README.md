@@ -51,6 +51,6 @@ This script is to conduct further exploratory analyses.
 #### code book.pdf
 - This document includes the code book, indicating which variable assesses (how) which concept.
 
-#### Appendix: CFI items and sub-scale allocation.pdf
-- This documents includes all items/codes of the Cognitive Flexibility Inventory as well as their expected sub-scale allocation.
+#### Supplementary Material
+- This documents includes supplementary material and analyses.
 
