@@ -31,7 +31,13 @@ This script is to test Hypothesis 2.
 This script is to test Hypothesis 3.
 
 - analysis_Step5
-This scrit is to identify scale properties of the CFI and ARIS scales.
+This script is to identify scale properties of the CFI and ARIS scales.
+
+- analysis_Step6
+This script is to conduct all additional analyses, complementing tests for Hypothesess 1-3.
+
+- analysis_Step7
+This script is to examine scale properties of the scales willingness to fight and item willingness to die.
 
 
 ### Directories
