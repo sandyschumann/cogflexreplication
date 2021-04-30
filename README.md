@@ -39,6 +39,9 @@ This script is to conduct all additional analyses, complementing tests for Hypot
 - analysis_Step7
 This script is to examine scale properties of the scales willingness to fight and item willingness to die.
 
+- analysis_Step8
+This script is to conduct further exploratory analyses.
+
 
 ### Directories
 
