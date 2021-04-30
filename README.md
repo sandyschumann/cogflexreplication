@@ -27,6 +27,8 @@ This script is to calculate the reliability of the 'willingness to fight' scale,
 - analysis_Step3
 This script is to test Hypothesis 2.
 
+- analysis_Step4
+This is to test Hypothesis 3.
 
 
 ### Directories
