@@ -21,6 +21,12 @@ This repository includes the following scripts and directories.
 - analysis_Step1
 This is the first script to be run to describe the sample and identify how many participants failed the attention check.
 
+- analysis_Step2
+This script is to calculate the reliability of the 'willingness to fight' scale, descriptive statistics, and correlations between all variables used in original study (test Hypothesis 1).
+
+- analysis_Step3
+This script is to test Hypothesis 2.
+
 
 
 ### Directories
