@@ -28,7 +28,10 @@ This script is to calculate the reliability of the 'willingness to fight' scale,
 This script is to test Hypothesis 2.
 
 - analysis_Step4
-This is to test Hypothesis 3.
+This script is to test Hypothesis 3.
+
+- analysis_Step5
+This scrit is to identify scale properties of the CFI and ARIS scales.
 
 
 ### Directories
