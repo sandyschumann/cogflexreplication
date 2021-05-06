@@ -45,12 +45,12 @@ This script is to conduct further exploratory analyses.
 
 ### Directories
 
-#### full public dataset.csv
+## fulldataset.csv and fulldataset.sav
 - This is the full dataset; potentially identifying information has been removed. 
 
-#### code book.pdf
+## code book.pdf
 - This document includes the code book, indicating which variable assesses (how) which concept.
 
-#### Supplementary Material
-- This documents includes supplementary material and analyses.
+## Supplementary Material
+- This document includes supplementary material and analyses.
 
