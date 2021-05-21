@@ -57,6 +57,6 @@ This script is to conduct all pre-registered analyses with a sample where those 
 #### code book.pdf
 - This document includes the code book, indicating which variable assesses (how) which concept.
 
-#### supplementary material
+#### supplementary material_.docx
 - This document includes supplementary material and analyses.
 
