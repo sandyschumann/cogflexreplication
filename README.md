@@ -34,7 +34,7 @@ This script is to test Hypothesis 3.
 This script is to identify scale properties of the CFI and ARIS scales.
 
 - analysis_Step6
-This script is to conduct all additional analyses, complementing tests for Hypothesess 1-3.
+This script is to conduct all additional analyses, complementing tests for Hypotheses 1-3.
 
 - analysis_Step7
 This script is to examine scale properties of the scales willingness to fight and item willingness to die.
@@ -42,15 +42,21 @@ This script is to examine scale properties of the scales willingness to fight an
 - analysis_Step8
 This script is to conduct further exploratory analyses.
 
+- analysis_Step9
+This script is to conduct all pre-registered analyses with a sample where those who failed the attention check are excluded.
+
 
 ### Directories
 
 #### fulldataset.csv and fulldataset.sav
 - This is the full dataset; potentially identifying information has been removed. 
 
+#### fulldataset_attention.csv and fulldataset_attention.sav
+- This is the dataset excluding nine participants who failed the attention check.
+
 #### code book.pdf
 - This document includes the code book, indicating which variable assesses (how) which concept.
 
-#### Supplementary Material
+#### supplementary material
 - This document includes supplementary material and analyses.
 
