@@ -80,7 +80,7 @@ fitmediated11b <- sem(mediatedmodel11b, data = fulldataset)
 summary(fitmediated11b, fit.measures = TRUE, standardized = TRUE)
 
 #Outcome: trolley choice
-ulldataset$choice = as.ordered(fulldataset$choice)
+fulldataset$choice = as.ordered(fulldataset$choice)
 mediatedmodel12b <-'##regressions
             choice ~ fight+age+gender_recoded+education+ overlap
             fight ~ RATaccuracy + WCSTaccuracy+Alternatives+Control
@@ -189,9 +189,9 @@ cor.test(fulldataset$Alternatives, fulldataset$certainty_trolley, use = "complet
 cor.test(fulldataset$Control, fulldataset$certainty_trolley, use = "complete.obs", method = "pearson")
 
 ##Sub-group analysis of correlations
-safeself <- subset(fulldataset, choice==0) #select those who chose to safe themselves
-cor.test(safe$certainty_trolley, safe$Alternatives, use = "complete.obs", method = "pearson")
-cor.test(safe$certainty_trolley, safe$Control, use = "complete.obs", method = "pearson")
+saveself <- subset(fulldataset, choice==0) #select those who chose to save themselves
+cor.test(saveself$certainty_trolley, safe$Alternatives, use = "complete.obs", method = "pearson")
+cor.test(saveself$certainty_trolley, safe$Control, use = "complete.obs", method = "pearson")
 
 sacrifice <- subset(fulldataset, choice==1) #select those who chose to self-sacrifice
 cor.test(sacrifice$certainty_trolley, sacrifice$Alternatives, use = "complete.obs", method = "pearson")
