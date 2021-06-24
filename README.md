@@ -7,7 +7,7 @@ This is the code and data repository for the analysis of our registered direct r
 The project uses R language.
 
 R dependencies:
-* R version: 3.6.2
+* R version: 4.1.0
 * R packages: Commands to install and run the required R packages are included in the respective analysis script.
 
 
